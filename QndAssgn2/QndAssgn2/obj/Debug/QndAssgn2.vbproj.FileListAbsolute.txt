@@ -1,0 +1,12 @@
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\bin\Debug\QndAssgn2.exe.config
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\bin\Debug\Database101.mdb
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\bin\Debug\QndAssgn2.exe
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\bin\Debug\QndAssgn2.pdb
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\bin\Debug\QndAssgn2.xml
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\obj\Debug\QndAssgn2.vbprojResolveAssemblyReference.cache
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\obj\Debug\QndAssgn2.Form1.resources
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\obj\Debug\QndAssgn2.Resources.resources
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\obj\Debug\QndAssgn2.vbproj.GenerateResource.Cache
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\obj\Debug\QndAssgn2.exe
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\obj\Debug\QndAssgn2.xml
+c:\users\cherutombo\documents\visual studio 2015\Projects\QndAssgn2\QndAssgn2\obj\Debug\QndAssgn2.pdb

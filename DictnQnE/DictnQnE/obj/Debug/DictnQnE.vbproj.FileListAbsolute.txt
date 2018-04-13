@@ -1,0 +1,11 @@
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\bin\Debug\DictnQnE.exe.config
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\bin\Debug\DictnQnE.exe
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\bin\Debug\DictnQnE.pdb
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\bin\Debug\DictnQnE.xml
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\obj\Debug\DictnQnE.vbprojResolveAssemblyReference.cache
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\obj\Debug\DictnQnE.Form1.resources
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\obj\Debug\DictnQnE.Resources.resources
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\obj\Debug\DictnQnE.vbproj.GenerateResource.Cache
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\obj\Debug\DictnQnE.exe
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\obj\Debug\DictnQnE.xml
+c:\users\cherutombo\documents\visual studio 2015\Projects\DictnQnE\DictnQnE\obj\Debug\DictnQnE.pdb
